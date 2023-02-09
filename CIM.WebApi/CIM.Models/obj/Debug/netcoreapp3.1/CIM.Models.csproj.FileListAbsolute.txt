@@ -1,0 +1,13 @@
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\bin\Debug\netcoreapp3.1\CIM.Models.deps.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\bin\Debug\netcoreapp3.1\CIM.Models.dll
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\bin\Debug\netcoreapp3.1\CIM.Models.pdb
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.csproj.AssemblyReference.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.AssemblyInfoInputs.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.AssemblyInfo.cs
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.csproj.CoreCompileInputs.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.dll
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.pdb
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\bin\Debug\netcoreapp3.1\CIM.Models.runtimeconfig.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\bin\Debug\netcoreapp3.1\CIM.Models.runtimeconfig.dev.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.Models\obj\Debug\netcoreapp3.1\CIM.Models.genruntimeconfig.cache

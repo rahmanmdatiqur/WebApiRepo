@@ -1,0 +1,16 @@
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.DAL.deps.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.DAL.dll
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.DAL.pdb
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.Models.dll
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.Models.pdb
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.csproj.AssemblyReference.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.AssemblyInfoInputs.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.AssemblyInfo.cs
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.csproj.CoreCompileInputs.cache
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.csproj.CopyComplete
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.dll
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.pdb
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.DAL.runtimeconfig.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\bin\Debug\netcoreapp3.1\CIM.DAL.runtimeconfig.dev.json
+D:\IDB\ESAD_R51\M10_Angular Pro\Class_007_Rep\CIM.WebApi\CIM.DAL\obj\Debug\netcoreapp3.1\CIM.DAL.genruntimeconfig.cache
